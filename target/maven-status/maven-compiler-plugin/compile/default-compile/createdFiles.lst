@@ -1,0 +1,5 @@
+com\codetreat\service\SampleService.class
+com\codetreat\entity\SampleEntity.class
+com\codetreat\controller\SampleController.class
+com\codetreat\repository\SampleRepository.class
+com\codetreat\sampleApplication.class
